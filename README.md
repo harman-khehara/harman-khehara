@@ -1,5 +1,5 @@
 ### Hi there! :smile: :cherry_blossom: :computer:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=react&?hide=Shell&?hide=Objective-C&?hide=Swift&?hide=JavaScript&?hide=PHP)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&theme=react&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8)
 <!--
 **harman-khehara/harman-khehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
