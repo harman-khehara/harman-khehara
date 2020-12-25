@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="left" alt="Hello" width="358.4" height="268.8" src="hello.gif"> 
+  <img align="left" alt="Hello" width="400" height="220" src="hello.gif"> 
   <h3> My name is Harman! :computer: :bulb: </h3>
 </p>
 
