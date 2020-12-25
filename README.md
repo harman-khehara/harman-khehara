@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="center" alt="Hello" width="360" height="183.75" src="hello.gif"> 
-  <img align="center" alt="Hello" width="396" height="151.2" src="rubiks_cube.gif"> 
+  <img align="center" alt="Hello" width="358.4" height="268.8" src="hello.gif"> 
+  <img align="center" alt="Hello" width="200" height="75" src="rubiks_cube.gif"> 
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
