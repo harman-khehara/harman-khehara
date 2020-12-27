@@ -9,11 +9,11 @@
 <img align="right" alt="CSS" width="20" height="30" src="css_logo.png"> 
 <img align="right" alt="Dart" width="70" height="35" src="dart_logo.png"> 
 <img align="right" alt="R" width="30" height="30" src="r_logo.svg"> 
-<img align="right" alt="Git" width="50" height="30" src="git_logo.png">
+<img align="right" alt="Git" width="50" height="25" src="git_logo.png">
 <img align="right" alt="VSCode" width="30" height="30" src="vscode.png"> 
 <img align="right" alt="Android Studio" width="30" height="30" src="android_studio.png"> 
 <img align="right" alt="PyCharm" width="30" height="30" src="pycharm.png"> 
-<img align="right" alt="Eclipse" width="30" height="30" src="eclipse.png">
+<img align="right" alt="Eclipse" width="25" height="25" src="eclipse.png">
 <img align="right" alt="Flutter" width="50" height="30" src="flutter.png"> 
 
 
