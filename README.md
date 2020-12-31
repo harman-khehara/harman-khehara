@@ -1,7 +1,7 @@
 ## Hello :wave:, my name is Harman! :blush:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=harman-khehara&theme=algolia&show_icons=true&hide=issues,contribs,stars&count_private=true&include_all_commits=true&bg_color=0,3f39bd,3574d4,98d7eb&title_color=ffffff)
-<img align="right" alt="Computer" width="150" height="150" src="computer.gif"> 
+<img align="right" alt="Computer" width="162.8" height="160" src="typing.gif"> 
 <h2 align="right">Languages and Tools :computer:</h3>
 <img align="right" alt="Python" width="30" height="30" src="python_logo.png"> 
 <img align="right" alt="Java" width="50" height="30" src="java_logo.png"> 
