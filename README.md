@@ -1,7 +1,7 @@
 ## Hello :wave:, my name is Harman! :blush:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=harman-khehara&theme=algolia&show_icons=true&hide=issues,contribs,stars&count_private=true&include_all_commits=true&bg_color=0,3f39bd,3574d4,98d7eb&title_color=ffffff)
-<img align="right" alt="Computer" width="162.8" height="160" src="typing.gif"> 
+<img align="right" alt="Typing on a computer" width="162.8" height="160" src="typing.gif"> 
 <h2 align="right">Languages and Tools :computer:</h3>
 <img align="right" alt="Python" width="30" height="30" src="python_logo.png"> 
 <img align="right" alt="Java" width="50" height="30" src="java_logo.png"> 
@@ -15,6 +15,7 @@
 <img align="right" alt="PyCharm" width="30" height="30" src="pycharm.png"> 
 <img align="right" alt="Eclipse" width="25" height="25" src="eclipse.png">
 <img align="right" alt="Flutter" width="50" height="30" src="flutter.png"> 
+<img align="right" alt="Bootstrap" width="35" height="30" src="bootstrap_logo.png"> 
 
 
 <a href="https://visitor-badge.glitch.me/badge?page_id=harman-khehara.visitor-badge">
