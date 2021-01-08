@@ -23,7 +23,7 @@
 </a>
 <img align="left" alt="Rubiks Cube" width="100" height="100" src="rubiks_cube.gif"> 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,3574d4,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,3574d4,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,3574d4,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
 </a>
 
 
