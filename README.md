@@ -1,6 +1,6 @@
 ## Hello :wave:, my name is Harman! :blush:
 
-![github stats](https://github-readme-stats.vercel.app/api?username=harman-khehara&theme=algolia&show_icons=true&hide=issues,contribs,stars&count_private=true&include_all_commits=true&bg_color=0,3f39bd,3574d4,98d7eb&title_color=ffffff)
+![github stats](https://github-readme-stats.vercel.app/api?username=harman-khehara&theme=algolia&show_icons=true&hide=issues,contribs,stars&count_private=true&include_all_commits=true&bg_color=0,3f39bd,aab3f0,98d7eb&title_color=ffffff)
 <img align="right" alt="Typing on a computer" width="162.8" height="160" src="typing.gif"> 
 <h2 align="right">Languages and Tools :computer:</h3>
 <img align="right" alt="Python" width="30" height="30" src="python_logo.png"> 
@@ -22,8 +22,8 @@
     <img algin="left" src="https://visitor-badge.glitch.me/badge?page_id=harman-khehara.visitor-badge">
 </a>
 <img align="left" alt="Rubiks Cube" width="100" height="100" src="rubiks_cube.gif"> 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,3574d4,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,3574d4,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,aab3f0,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,98d7eb,aab3f0,3f39bd&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
 </a>
 
 
