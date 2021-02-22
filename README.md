@@ -10,7 +10,7 @@
 
 ```python
 harman = {
-  "Programming Languages": ["Java", "Python", "HTML5", "CSS", "R", "Dart"],
+  "Programming Languages": ["Java", "Python", "HTML", "CSS", "R", "Dart"],
   "Tools": ["Git", "VSCode", "Android Studio", "PyCharm", "Eclipse"],
   "Libraries & Frameworks": ["Flutter", "Bootstrap"]
 }
