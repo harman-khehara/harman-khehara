@@ -4,6 +4,8 @@
 
 - 📚 I'm studying computer science, applied statistics and mathematical sciences at the University of Toronto
 - 💁 I'm a passionate learner who's always open to learning new technologies
+- ✨ Some of my interests include <b>machine learning</b>, <b>computer vision</b>, <b>game development</b>, <b>computer networks</b> and <b>computer hardware</b>
+- 📆 In the future I look forward to creating projects with Flask, Heroku, Unity, OpenCV, Docker and the Raspberry Pi
 - 💡 Currently working on developing a Discord bot using Python
 
 ## Tech Stack 💻
