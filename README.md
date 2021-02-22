@@ -17,14 +17,14 @@ harman = {
 ```
 ## GitHub Stats 📈
 
+<p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&theme=default&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&theme=default&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
 </a>
-
 <a href="https://visitor-badge.glitch.me/badge?page_id=harman-khehara.visitor-badge">
-    <img algin="left" src="https://visitor-badge.glitch.me/badge?page_id=harman-khehara.visitor-badge">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=harman-khehara.visitor-badge">
 </a>
-
+</p>
 
 
 
