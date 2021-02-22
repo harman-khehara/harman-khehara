@@ -15,8 +15,8 @@ harman = {
 ```
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,3f39bd,aab3f0,98d7eb&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&bg_color=0,3f39bd,aab3f0,98d7eb&title_color=ffffff&theme=algolia&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&theme=default&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&theme=default&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
 </a>
 
 <a href="https://visitor-badge.glitch.me/badge?page_id=harman-khehara.visitor-badge">
