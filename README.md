@@ -12,9 +12,9 @@
 
 ```python
 harman = {
-  "Coding Languages": ["Java", "Python", "HTML", "CSS", "R", "Dart"],
-  "Tools": ["Git", "VSCode", "Android Studio", "PyCharm", "Eclipse"],
-  "Libraries & Frameworks": ["Flutter", "Bootstrap", "Swing", "JavaFX"]
+  "Coding Languages": ["Java", "C", "Python", "HTML", "CSS", "R", "Dart", "Assembly"],
+  "Tools": ["Git", "VSCode", "Android Studio", "PyCharm", "Eclipse", "Bash"],
+  "Libraries & Frameworks": ["Flutter", "Bootstrap", "Java Swing", "JavaFX"]
 }
 ```
 ## GitHub Stats 📈
