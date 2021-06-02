@@ -13,7 +13,7 @@
 ```python
 harman = {
   "Coding Languages": ["Java", "C", "Python", "HTML", "CSS", "R", "Dart", "Assembly"],
-  "Tools": ["Git", "VSCode", "Android Studio", "PyCharm", "Eclipse", "Bash"],
+  "Tools": ["Git", "Git Bash", "VSCode", "Android Studio", "PyCharm", "Eclipse", "Linux"],
   "Libraries & Frameworks": ["Flutter", "Bootstrap", "Java Swing", "JavaFX"]
 }
 ```
