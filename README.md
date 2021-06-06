@@ -6,7 +6,7 @@
 - :woman_student: I'm a passionate learner who's always open to learning new technologies.
 - ✨ Some of my interests include, <b>machine learning</b>, <b>computer vision</b>, <b>game development</b>, <b>computer networks</b>, and <b>computer hardware</b>.
 - 📆 In the future, I look forward to creating projects with Flask, Heroku, Unity, OpenCV, Docker and the Raspberry Pi.
-- 💡 Currently working on developing a <a href="https://github.com/harman-khehara/Shenron-Discord-Bot">Discord bot</a> using Python and implementing Firebase notifications for <a href="https://github.com/harman-khehara/PlanPal">PlanPal</a>.
+- 💡 Currently working on developing a <a href="https://github.com/harman-khehara/Shenron-Discord-Bot">Discord Bot</a> using Python.
 
 ## Tech Stack 💻
 
