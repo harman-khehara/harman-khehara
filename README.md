@@ -6,7 +6,7 @@
 - :woman_student: I'm a passionate learner who's always open to learning new technologies.
 - ✨ Some of my interests include, <b>machine learning</b>, <b>computer vision</b>, <b>game development</b>, <b>computer networks</b>, and <b>computer hardware</b>.
 - 📆 In the future, I look forward to creating projects with Flask, Heroku, Unity, OpenCV, Docker and the Raspberry Pi.
-- 💡 Currently working on improving the website design for <a href="https://harman-khehara.github.io/Data-Analysis-of-Postsecondary-Graduates/">Data Analysis of Postsecondary Graduates</a>
+- 💡 Currently working on improving the website design for <a href="https://harman-khehara.github.io/Data-Analysis-of-Postsecondary-Graduates/">Data Analysis of Postsecondary Graduates</a>.
 
 ## Tech Stack 💻
 
