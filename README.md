@@ -2,26 +2,25 @@
 
 <img align="right" alt="Women Coding" width="250" height="150" src="coding.png"> 
 
-- 📚 I'm studying computer science, applied statistics and mathematical sciences at the University of Toronto.
-- :woman_student: I'm a passionate learner who's always open to learning new technologies.
-- ✨ Some of my interests include, <b>machine learning</b>, <b>computer vision</b>, <b>game development</b>, <b>computer networks</b>, and <b>computer hardware</b>.
-- 📆 In the future, I look forward to creating projects with Flask, Heroku, Unity, OpenCV, Docker and the Raspberry Pi.
-- 💡 Currently working on improving the website design for <a href="https://harman-khehara.github.io/Data-Analysis-of-Postsecondary-Graduates/">Data Analysis of Postsecondary Graduates</a>.
+- 📚 I'm about to graduate with a specialization in Applied Statistics from the University of Toronto.
+- :woman_student: I thrive on continuous learning and embrace any challenges along the way!.
+- ✨ I enjoy combining my technical abilities and analytical mindset to analyze and transform complex data into actionable insights and data-driven solutions.
+- 📆 As I grow in my career, I look forward to expanding my expertise in data engineering and cloud technologies.
+- 💡 I am currently growing my skill set by taking the course <a href="https://www.coursera.org/programs/coursera-for-university-of-toronto-ql0lg/learn/excel-power-tools">Excel Power Tools for Data Analysis</a>.
 
 ## Tech Stack 💻
 
 ```python
-harman = {
-  "Coding Languages": ["Java", "C", "Python", "HTML", "CSS", "R", "Dart", "Assembly"],
-  "Tools": ["Git", "Git Bash", "VSCode", "Android Studio", "PyCharm", "Eclipse", "Linux"],
-  "Libraries & Frameworks": ["Flutter", "Bootstrap", "Java Swing", "JavaFX"]
+Harman = {
+  "Programming languages": ["Python", "R", "SAS", "Java", "HTML", "CSS"],
+  "Tools": ["Excel", "Word", "ArcGis", "Adobe Analytics", "Google Analytics", "Git"],
 }
 ```
 ## GitHub Stats 📈
 
 <p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&title_color=3f39bd&theme=default&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&title_color=3f39bd&theme=default&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&title_color=3f39bd&theme=buefy&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=275">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman-khehara&title_color=3f39bd&theme=buefy&hide=Shell,Swift,Kotlin,Objective-C&langs_count=8&layout=compact&card_width=400">
 </a>
 
 
