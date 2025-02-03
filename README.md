@@ -2,7 +2,7 @@
 
 <img align="right" alt="Women Coding" width="250" height="150" src="coding.png"> 
 
-- 📚 I'm about to graduate with a specialization in Applied Statistics from the University of Toronto.
+- 📚 I am completing my degree at the University of Toronto with a specialization in Applied Statistics.
 - :woman_student: I thrive on continuous learning and embrace any challenges along the way!
 - ✨ I enjoy combining my technical abilities and analytical mindset to analyze and transform complex data into actionable insights and data-driven solutions.
 - 📆 As I grow in my career, I look forward to expanding my expertise in <b>data engineering</b> and <b>cloud technologies</b>.
