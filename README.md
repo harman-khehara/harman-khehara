@@ -1,19 +1,25 @@
-## Hello :wave:, my name is Harman! :blush:
+## Hello :wave:, I'm Harman! :blush:
 
-<img align="right" alt="Women Coding" width="250" height="150" src="coding.png"> 
-
-- 📚 I am completing my degree at the University of Toronto with a specialization in Applied Statistics.
-- :woman_student: I thrive on continuous learning and embrace any challenges along the way!
-- ✨ I enjoy combining my technical abilities and analytical mindset to analyze and transform complex data into actionable insights and data-driven solutions.
-- 📆 As I grow in my career, I look forward to expanding my expertise in <b>data engineering</b> and <b>cloud technologies</b>.
-- 💡 I am currently growing my skill set by taking the course <a href="https://www.coursera.org/programs/coursera-for-university-of-toronto-ql0lg/learn/excel-power-tools">Excel Power Tools for Data Analysis</a>.
+<table>
+  <tr>
+    <td>
+      <ul>
+      <li>📚 I am completing my degree at the University of Toronto with a specialization in Applied Statistics.</li>
+      <li>👩‍🎓 I thrive on continuous learning and embrace any challenges along the way!</li>
+     <li>✨ I enjoy combining my technical abilities and analytical mindset to analyze and transform complex data into actionable insights and data-driven solutions.</li>
+     <li>📆 As I grow in my career, I look forward to expanding my expertise in <b>data engineering</b> and <b>cloud technologies</b>.</li>
+     <li>💡 I am currently growing my skill set by taking the course <a href="https://www.coursera.org/programs/coursera-for-university-of-toronto-ql0lg/learn/excel-power-tools">Excel Power Tools for Data Analysis</a>.</li>
+      </ul>
+      </td> 
+    <td><img alt="Women Coding" width="350" height="150" src="coding.png"></td>
+</table>
 
 ## Tech Stack 💻
 
 ```python
 Harman = {
-  "Programming languages": ["Python", "R", "SAS", "Java", "HTML", "CSS"],
-  "Tools": ["Excel", "Word", "ArcGis", "Adobe Analytics", "Google Analytics", "Git"],
+  "Programming languages": ["Python", "R", "Java", "HTML", "CSS"],
+  "Tools": ["SAS", "Excel", "RStudio", "ArcGis", "Adobe Analytics", "Google Analytics", "Git", "VSCode"],
 }
 ```
 ## GitHub Stats 📈
