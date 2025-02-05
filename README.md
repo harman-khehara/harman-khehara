@@ -15,7 +15,7 @@
 </table>
 
 ## Projects 🗂️
-I am currently working on a customer segmentation and sales analysis project, check out the progress <a href="https://github.com/harman-khehara/Customer-Sales-Analysis">here</a>! For other projects, have a look at the pinned repositories below or browse <a href="https://github.com/harman-khehara?tab=repositories">here</a>.
+Currently working on a customer segmentation and sales analysis project, check out the progress <a href="https://github.com/harman-khehara/Customer-Sales-Analysis">here</a>! For other projects, have a look at the pinned repositories below or browse <a href="https://github.com/harman-khehara?tab=repositories">here</a>.
 
 ## Tech Stack 💻
 
